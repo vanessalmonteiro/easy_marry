@@ -50,6 +50,11 @@ body {
     height: 34px;
     background-color: #DDBDA4;
     border: 1px solid black;
-    color: white;
+    color: rgb(231, 231, 231);
     font-weight: bold;
+}
+
+.button:hover {
+    background-color: #f5e9c196;
+	
 }
